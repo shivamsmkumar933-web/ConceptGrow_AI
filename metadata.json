@@ -1,0 +1,6 @@
+{
+  "name": "ConceptGrow AI",
+  "description": "Understand Better. Learn Smarter. Grow Without Limits. An adaptive EdTech platform with Ollama-powered AI Tutor, Learning Map, and PowerBot teaching DNA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
